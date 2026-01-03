@@ -1,75 +1,28 @@
-# Car_Sales-Dashboard
 🚗 Car Sales Analytics Dashboard | Power BI
 📌 Project Overview
-The Car Sales Analytics Dashboard is an interactive Power BI report designed to analyze and monitor car sales performance for a dealership company.
-This dashboard provides real-time insights into sales trends, pricing performance, and cars sold metrics, helping stakeholders make data-driven business decisions.
+
+The Car Sales Analytics Dashboard is an interactive Power BI report developed to analyze and monitor the sales performance of a car dealership company. This dashboard provides meaningful insights into overall sales trends, pricing performance, and the number of cars sold. It helps business stakeholders understand performance over time and supports data-driven decision-making.
 
 🎯 Objective
-The primary objective of this project is to:
-Track key sales KPIs in real time
-Analyze sales performance across time, regions, body styles, and colors
-Identify trends, growth opportunities, and performance gaps
+
+The main objective of this project is to track key sales performance indicators in real time, analyze sales trends across different periods, regions, body styles, and colors, and identify growth opportunities as well as performance gaps within the business.
 
 🛠️ Tech Stack
-Power BI Desktop – Data visualization & dashboard development
-Power Query – Data cleaning and transformation
-DAX (Data Analysis Expressions) – KPI calculations & YOY comparisons
-File Format – .pbit / .pbix
 
+This dashboard has been built using Power BI Desktop for data visualization and report development. Power Query has been used for data cleaning and transformation, while DAX (Data Analysis Expressions) has been implemented to calculate KPIs, year-over-year growth, and comparison metrics. The project is developed using Power BI file formats such as .pbix and .pbit.
 
 📊 Key KPIs Included
-🔹 Sales Performance
-Year-to-Date (YTD) Total Sales
-Month-to-Date (MTD) Total Sales
-Year-over-Year (YOY) Sales Growth
-Difference between YTD Sales and Previous YTD (PTYD)
 
-🔹 Average Price Analysis
-YTD Average Price
-MTD Average Price
-YOY Growth in Average Price
-Difference between YTD and PTYD Average Price
-
-🔹 Cars Sold Metrics
-YTD Cars Sold
-MTD Cars Sold
-YOY Growth in Cars Sold
-Difference between YTD and PTYD Cars Sold
-
+The dashboard includes important sales performance indicators such as Year-to-Date (YTD) total sales, Month-to-Date (MTD) total sales, year-over-year growth in sales, and the difference between current YTD sales and previous year-to-date sales. It also analyzes average price metrics including YTD average price, MTD average price, year-over-year growth in average price, and comparison with previous year pricing. Additionally, car sales volume metrics such as YTD cars sold, MTD cars sold, YOY growth in cars sold, and differences from previous year performance are included.
 
 📈 Dashboard Visualizations
-📉 Sales Trends
-YTD Sales Weekly Trend (Line Chart)
-Shows weekly sales movement over the year
-🥧 Sales Distribution
-YTD Total Sales by Body Style (Pie Chart)
-YTD Total Sales by Car Color (Pie Chart)
 
-🌍 Regional Analysis
-YTD Cars Sold by Dealer Region (Map Chart)
-Visualizes geographic sales performance
-
-🏢 Company Performance
-Company-wise Sales Trend (Grid/Table)
-Displays YTD sales figures for each company
-
-📋 Detailed Sales Table
-Complete car sales information including:
-Car model
-Body style
-Color
-Sales amount
-Dealer region
-Sales date
-
+The dashboard presents a weekly YTD sales trend using a line chart to show how sales evolve over time. Sales distribution is visualized through pie charts that display YTD total sales by car body style and by color. Regional performance is highlighted using a map chart that shows YTD cars sold across different dealer regions. A company-wise sales trend is presented in a grid format to compare YTD sales among different companies. A detailed table is also included, providing complete information for each car sale such as car model, body style, color, sales amount, dealer region, and sales date.
 
 🚀 Business Impact & Insights
-Enables quick monitoring of sales performance
-Helps identify top-performing regions, colors, and body styles
-Supports pricing strategy analysis using average price trends
-Assists management in strategic planning and forecasting
 
-📷 Dashboard Preview
+This dashboard enables quick and effective monitoring of sales performance, helping stakeholders identify top-performing regions, popular car colors, and preferred body styles. It supports pricing strategy evaluation through average price analysis and assists management teams in strategic planning, forecasting, and performance optimization.
+
 ![Car Sales Dashboard – Overview](https://raw.githubusercontent.com/sanskar-choukse/Car-Sales-Dashboard/main/Snapshot%20of%20the%20Dashboard1.png)
 
 ![Car Sales Dashboard – Detailed View](https://raw.githubusercontent.com/sanskar-choukse/Car-Sales-Dashboard/main/Snapshot%20of%20the%20Dashboard2.png)
